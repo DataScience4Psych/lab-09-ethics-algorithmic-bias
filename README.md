@@ -1,3 +1,3 @@
-# lab-08-uoe-art
+# lab-09-ethics-algorithmic-bias
 
 template materials for lab
